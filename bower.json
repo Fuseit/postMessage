@@ -1,0 +1,16 @@
+{
+  "name": "postMessage",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Fuseit/postMessage",
+  "description": "SkinnyJs postMessage",
+  "main": [
+    "jquery.postMessage.js",
+    "postmessage.htm"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "postMessage"
+  ]
+}
